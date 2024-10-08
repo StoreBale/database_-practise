@@ -1,0 +1,46 @@
+Access,可近性
+Accreditation,評鑑
+Adverse,不良事件
+Adverse selection,逆選擇
+Allied healthy,醫療人員、醫療相關專業人員
+All-payer system,單一支付致
+Ancillary services,輔助服務、補助性醫療服務
+Antitrust,反托拉斯
+Assisted living,協助性居住
+Avoidable hospital condition,可避免住院狀況
+Behavioral healthy,行為健康
+Behavioral Risk Factor Surveillance System(BRFSS),行為危險因子監測系統
+Beneficiary,保險收益人、被保險人
+Biased selection,偏差的選擇	
+Capital,資本、資本財
+Carrier,保險人
+Case management,個案管理
+Case mix,病例組合
+Case severity,病例嚴重度
+Catastrophic health insurance,重大傷病健康保險、重大傷病保險
+Centers for Disease Control and Prevention(CDC),疾病控制及預防中心
+Certification,認證
+Chronic care,慢性照護
+Clinic,診所
+Clinical condition,臨床狀況
+Clinical practice guidelines,臨床服務指引
+Co-morbidities,合併症
+Continuum of care,照護連續性
+Copayment,定額部分負擔
+Cost-based reimbursement,成本為基礎的支付標準
+Cost-benefit analysis,成本效益分析
+Cost Consequence Analysis(CCA),成本結果分析
+Cost Minimization Analysis(CMA),最小成本分析
+Cost utility analysis,成本效用分析
+Crowd-out,排擠
+Cultural competence,文化能力
+deductible,自負額
+De-identification,去辨識化
+Deinstitutionalization,去機構化
+Diagnosis Related Groups(DRGs),診斷關聯群
+Disability,失能
+Discharge,出院
+Disease,疾病
+Disease management,疾病管理
+Drug utilization review(DUR),藥物利用審查
+Durable Medical Equipment(DME),長期使用的醫療器材、耐用型醫療器材

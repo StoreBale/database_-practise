@@ -11,7 +11,7 @@ docker pull postgres
 3. 建立container，設定port、postgres最高權限的登入密碼
 >一定要指定port對應，官網上的說明沒有指定，但實際上可能會導致連不上
 ```angular2html
-docker create --name postgresdb -p 5432:5432 -e POSTGRES_PASSWORD=123456 postgres
+docker create --name postgres -p 5432:5432 -e POSTGRES_PASSWORD=123456 postgres
 ```
 4. 執行container
 ```angular2html
